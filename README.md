@@ -1,5 +1,8 @@
 # AgriAstraX: Transforming Agriculture with AI and IoT
 
+![Screenshot 2025-01-10 192927](https://github.com/user-attachments/assets/dd518849-6a08-4a31-bfa3-f717177a89a1)
+
+
 ## Overview
 AgriAstraX is an AI-powered agricultural platform designed to empower farmers with innovative technology for crop disease prediction, weather analysis, treatment recommendations, and advanced IoT-based solutions. It leverages state-of-the-art tools and seamless integration of drones, rovers, and IoT sensors to revolutionize traditional farming methods, enabling sustainable and efficient agricultural practices.
 
